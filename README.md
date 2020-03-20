@@ -6,4 +6,4 @@ The presentation for the paper says you can get the source at ccvt.googlecode.co
 
 Luckily there is an archive of google code projects, containing ccvt, which can be found at https://code.google.com/archive/p/ccvt/source/default/source
 
-Everything here except this readme file is the contents of that repository (i deleted the useless svn folders though)
+Everything here except this readme file is the contents of that repository. I deleted the useless svn folders though, and also added a proj and sln file to help folks be able to compile this out of the box more easily.
